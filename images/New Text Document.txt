@@ -1,0 +1,16 @@
+ .main-greeding{
+    color: #F948B2;
+  }
+.main{
+    padding: 30px 30px 0px 100px;
+      display: flex;
+      align-items: center;
+      background-color: #f0c3c3;
+      width: 1000;
+      height: 600px;
+
+}
+.main-title{
+      width: 1000;
+      height: 600px;
+      justify-content: center;
